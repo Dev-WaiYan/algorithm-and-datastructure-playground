@@ -1,2 +1,2 @@
 # algorithms-playground
-Playground for algorithms.
+Playground for algorithms and data structures.
